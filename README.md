@@ -1,5 +1,6 @@
 # PrimeTrade-Data-Science-Assignment
 Analysis of trader performance vs market sentiment (Fear vs Greed)
+Google Colab Notebook: https://colab.research.google.com/drive/1QLu_f5mi9L17gCr5CMzj8kEmC-po8MSM
 
 
 ## Objective
